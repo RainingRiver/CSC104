@@ -1,0 +1,36 @@
+/* Set the background color of the body to a light gray and text color to black */
+body {
+    background-color: rgb(192, 191, 191);
+    color: rgb(0, 0, 0);
+}
+
+/* Style for the main heading (h1) */
+h1 {
+    color: #ff0000; /* Set the color to red */
+    font-family: times new roman, arial; /* Use Times New Roman or Arial font */
+}
+
+/* Style for the second-level heading (h2) */
+h2 {
+    color: #0400ff; /* Set the color to blue */
+    font-family: times new roman, arial; /* Use Times New Roman or Arial font */
+    text-decoration: underline; /* Underline the text */
+}
+
+/* Style for the third-level heading (h3) */
+h3 {
+    color: #0400ff; /* Set the color to blue */
+    font-family: times new roman, arial; /* Use Times New Roman or Arial font */
+    text-decoration: underline; /* Underline the text */
+}
+
+/* Style for paragraph elements (p) */
+p {
+    margin: 20px; /* Add a 20px margin around paragraphs */
+    font-family: times new roman, arial; /* Use Times New Roman or Arial font */
+}
+
+/* Style for visited links (a:visited) */
+a:visited {
+    color: rgb(0, 255, 0); /* Set the color to green */
+}
