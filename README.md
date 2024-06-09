@@ -1,1 +1,1 @@
-# CSC104
+# CSC104 Basics - Text Styling
